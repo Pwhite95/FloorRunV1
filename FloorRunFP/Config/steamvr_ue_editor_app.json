@@ -2,15 +2,15 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.first-person-bp-game-template-14830424.ue4editor.exe",
+			"app_key": "application.generated.ue.floorrunfp-14830424.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "C:/Users/patri/OneDrive/Desktop/Unreal Projects/FloorRunV1-master/FloorRunV1/FloorRunFP/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "C:/Users/patri/OneDrive/Desktop/Unreal Projects/FLOOR RUN REPO/FloorRunV1/FloorRunFP/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
 				{
-					"name": "First Person BP Game Template-14830424 [UE Editor]"
+					"name": "FloorRunFP-14830424 [UE Editor]"
 				}
 			}
 		}
